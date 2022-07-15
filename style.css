@@ -19,6 +19,7 @@ Clearly there is more you could place in variables, up to you if you want to use
 
 html {
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 *,
